@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: aliceblue;
+    color: black;
     line-height: 1.6;
 }
 
@@ -21,7 +21,7 @@ footer {
     text-align: center;
     padding: 15px;
     margin-top: 20px;
-    color: beige;
+    color: black;
 }
 
 nav ul {
@@ -35,24 +35,24 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: aliceblue;
+    color: black;
     font-weight: bold;
 }
 
 nav ul li a:hover {
-    color: #ffcc00;
+    color: red;
 }
 
 .highlight {
-    color: #ffcc00;
+    color: blue;
 }
 
 #special-footer {
-    background-color: #222;
+    background-color: black;
 }
 
 section h2 {
-    color: lightblue;
+    color: black;
 }
 
 @media (max-width: 600px) {
