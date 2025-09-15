@@ -50,3 +50,7 @@ nav ul li a:hover {
 #special-footer {
     background-color: #222;
 }
+
+section h2 {
+    color: lightblue;
+}
