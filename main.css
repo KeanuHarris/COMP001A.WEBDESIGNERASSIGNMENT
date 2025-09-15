@@ -54,3 +54,9 @@ nav ul li a:hover {
 section h2 {
     color: lightblue;
 }
+
+media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
