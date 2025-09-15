@@ -4,3 +4,13 @@ body {
     padding: 0;
     color: aliceblue;
 }
+
+header {
+    background-color: black;
+    padding: 15px 0;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+}
