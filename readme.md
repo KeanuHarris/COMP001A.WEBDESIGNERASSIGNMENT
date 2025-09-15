@@ -1,3 +1,3 @@
 Author : Keanu Harris
-Purpose : Practice what we learned
+Purpose : Practice What I Learned So Far
 Goal : To improve my skills on web development
